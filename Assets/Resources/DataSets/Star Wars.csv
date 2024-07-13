@@ -1,0 +1,7 @@
+Planet,Color,Mass (10^24kg),Diameter (km),Distance from Sun (10^6 km),Aphelion (10^6 km),Orbital Velocity (km/s),Orbital Inclination (degrees),Obliquity to Orbit (degrees),Is Star?
+Aldebaran,Yellow,1988400,1392000,0,0,0,7.2,7.25,Yes
+Albion,red,0.33,4879,57.9,69.8,47.4,7.0,0.034,No
+Pepino,white,4.87,22104,108.2,108.9,35.0,3.4,177.4,No
+Alderaan,purple,5.97,32756,149.6,152.1,29.8,0,23.4,No
+Naboo,pink,0.642,12792,228.0,249.3,24.1,1.8,25.2,No
+Hoth,Blue,102,419528,515.0,4558.9,15.4,1.8,28.3,No

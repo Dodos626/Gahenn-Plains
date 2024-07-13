@@ -1,0 +1,8 @@
+Planet,Color,Mass (10^24kg),Diameter (km),Distance from Sun (10^6 km),Aphelion (10^6 km),Orbital Velocity (km/s),Orbital Inclination (degrees),Obliquity to Orbit (degrees),Is Star?
+Galo GT33743-C,Yellow,1988400,1392000,0,0,0,7.2,7.25,Yes
+Nesor,green,0.33,4879,57.9,69.8,47.4,7.0,0.034,No
+Flunds,blue,0.33,4879,57.9,-70.8,-47.4,7.0,0.034,No
+Tiners,pink,4.87,22104,108.2,108.9,35.0,3.4,177.4,No
+Ginshere,purple,4.87,22104,108.2,-110.0,35.0,3.4,177.4,No
+Nerawilu,brow,5.97,32756,149.6,152.1,29.8,50,23.4,No
+Ferenan,red,5.97,32756,149.6,-165.1,-29.8,-50,23.4,No
